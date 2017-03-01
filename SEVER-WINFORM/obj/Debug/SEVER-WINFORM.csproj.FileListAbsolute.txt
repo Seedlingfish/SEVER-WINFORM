@@ -1,0 +1,36 @@
+D:\视频采集卡\project\SOCKET\udpsocket\SEVER-WINFORM\SEVER-WINFORM\bin\Debug\SEVER-WINFORM.exe.config
+D:\视频采集卡\project\SOCKET\udpsocket\SEVER-WINFORM\SEVER-WINFORM\bin\Debug\SEVER-WINFORM.exe
+D:\视频采集卡\project\SOCKET\udpsocket\SEVER-WINFORM\SEVER-WINFORM\bin\Debug\SEVER-WINFORM.pdb
+D:\视频采集卡\project\SOCKET\udpsocket\SEVER-WINFORM\SEVER-WINFORM\obj\Debug\SEVER-WINFORM.csprojResolveAssemblyReference.cache
+D:\视频采集卡\project\SOCKET\udpsocket\SEVER-WINFORM\SEVER-WINFORM\obj\Debug\SEVER_WINFORM.Form1.resources
+D:\视频采集卡\project\SOCKET\udpsocket\SEVER-WINFORM\SEVER-WINFORM\obj\Debug\SEVER_WINFORM.Properties.Resources.resources
+D:\视频采集卡\project\SOCKET\udpsocket\SEVER-WINFORM\SEVER-WINFORM\obj\Debug\SEVER-WINFORM.csproj.GenerateResource.Cache
+D:\视频采集卡\project\SOCKET\udpsocket\SEVER-WINFORM\SEVER-WINFORM\obj\Debug\SEVER-WINFORM.exe
+D:\视频采集卡\project\SOCKET\udpsocket\SEVER-WINFORM\SEVER-WINFORM\obj\Debug\SEVER-WINFORM.pdb
+D:\视频采集卡\project\SOCKET\udpsocket\SEVER-WINFORM - NEW\SEVER-WINFORM\bin\Debug\SEVER-WINFORM.exe.config
+D:\视频采集卡\project\SOCKET\udpsocket\SEVER-WINFORM - NEW\SEVER-WINFORM\obj\Debug\SEVER-WINFORM.exe
+D:\视频采集卡\project\SOCKET\udpsocket\SEVER-WINFORM - NEW\SEVER-WINFORM\obj\Debug\SEVER-WINFORM.pdb
+D:\视频采集卡\project\SOCKET\udpsocket\SEVER-WINFORM - NEW\SEVER-WINFORM\bin\Debug\SEVER-WINFORM.exe
+D:\视频采集卡\project\SOCKET\udpsocket\SEVER-WINFORM - NEW\SEVER-WINFORM\bin\Debug\SEVER-WINFORM.pdb
+D:\视频采集卡\project\SOCKET\udpsocket\SEVER-WINFORM - NEW\SEVER-WINFORM\obj\Debug\SEVER-WINFORM.csprojResolveAssemblyReference.cache
+D:\视频采集卡\project\SOCKET\udpsocket\SEVER-WINFORM - NEW\SEVER-WINFORM\obj\Debug\SEVER_WINFORM.Form1.resources
+D:\视频采集卡\project\SOCKET\udpsocket\SEVER-WINFORM - NEW\SEVER-WINFORM\obj\Debug\SEVER_WINFORM.Properties.Resources.resources
+D:\视频采集卡\project\SOCKET\udpsocket\SEVER-WINFORM - NEW\SEVER-WINFORM\obj\Debug\SEVER-WINFORM.csproj.GenerateResource.Cache
+D:\YMM\YMM\udpsocket\SEVER-WINFORM - NEW - 10.17\SEVER-WINFORM\bin\Debug\SEVER-WINFORM.exe.config
+D:\YMM\YMM\udpsocket\SEVER-WINFORM - NEW - 10.17\SEVER-WINFORM\obj\Debug\SEVER-WINFORM.exe
+D:\YMM\YMM\udpsocket\SEVER-WINFORM - NEW - 10.17\SEVER-WINFORM\obj\Debug\SEVER-WINFORM.pdb
+D:\YMM\YMM\udpsocket\SEVER-WINFORM - NEW - 10.17\SEVER-WINFORM\bin\Debug\SEVER-WINFORM.exe
+D:\YMM\YMM\udpsocket\SEVER-WINFORM - NEW - 10.17\SEVER-WINFORM\bin\Debug\SEVER-WINFORM.pdb
+D:\YMM\YMM\udpsocket\SEVER-WINFORM - NEW - 10.17\SEVER-WINFORM\obj\Debug\SEVER-WINFORM.csprojResolveAssemblyReference.cache
+D:\YMM\YMM\udpsocket\SEVER-WINFORM - NEW - 10.17\SEVER-WINFORM\obj\Debug\SEVER_WINFORM.Form1.resources
+D:\YMM\YMM\udpsocket\SEVER-WINFORM - NEW - 10.17\SEVER-WINFORM\obj\Debug\SEVER_WINFORM.Properties.Resources.resources
+D:\YMM\YMM\udpsocket\SEVER-WINFORM - NEW - 10.17\SEVER-WINFORM\obj\Debug\SEVER-WINFORM.csproj.GenerateResource.Cache
+D:\YMM\YMM\udpsocket\SEVER-WINFORM - NEW - 10.19\SEVER-WINFORM\bin\Debug\SEVER-WINFORM.exe.config
+D:\YMM\YMM\udpsocket\SEVER-WINFORM - NEW - 10.19\SEVER-WINFORM\obj\Debug\SEVER-WINFORM.exe
+D:\YMM\YMM\udpsocket\SEVER-WINFORM - NEW - 10.19\SEVER-WINFORM\obj\Debug\SEVER-WINFORM.pdb
+D:\YMM\YMM\udpsocket\SEVER-WINFORM - NEW - 10.19\SEVER-WINFORM\bin\Debug\SEVER-WINFORM.exe
+D:\YMM\YMM\udpsocket\SEVER-WINFORM - NEW - 10.19\SEVER-WINFORM\bin\Debug\SEVER-WINFORM.pdb
+D:\YMM\YMM\udpsocket\SEVER-WINFORM - NEW - 10.19\SEVER-WINFORM\obj\Debug\SEVER-WINFORM.csprojResolveAssemblyReference.cache
+D:\YMM\YMM\udpsocket\SEVER-WINFORM - NEW - 10.19\SEVER-WINFORM\obj\Debug\SEVER_WINFORM.Form1.resources
+D:\YMM\YMM\udpsocket\SEVER-WINFORM - NEW - 10.19\SEVER-WINFORM\obj\Debug\SEVER_WINFORM.Properties.Resources.resources
+D:\YMM\YMM\udpsocket\SEVER-WINFORM - NEW - 10.19\SEVER-WINFORM\obj\Debug\SEVER-WINFORM.csproj.GenerateResource.Cache
